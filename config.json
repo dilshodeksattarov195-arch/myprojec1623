@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsender",
+        "uuid": 4550892,
+        "checksum": "02bcp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
